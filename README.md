@@ -1,2 +1,2 @@
 # ABSystems
-Prueba tecnica:  ESTUDIANTES NUEVOS
+Prueba tecnica:  ESTUDIANTES NUEVOS- APLICACION COMPILADA
